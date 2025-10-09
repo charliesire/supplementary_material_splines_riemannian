@@ -33,4 +33,7 @@ Each of these sub-repositories contains:
 
 - A **Jupyter notebook (`.ipynb`)** with the implementation.  
 - **Results folders**: `first_scenario` and `second_scenario`.  
+
+**Note for the sphere:**  
+- The folder contains both **codes and results** for the **analytical case** and for the **Earth pollution case**, as considered in the article.  
 - **`plot_3d.ipynb`** – Notebook providing the 3D plots featured in the article.
